@@ -1,0 +1,9 @@
+{
+  "name": "js-practice",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "run": "node",
+    "watch": "node --watch"
+  }
+}
